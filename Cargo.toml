@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 authors = ["Grant Handy <grantshandy@gmail.com>"]
 license = "MIT"
+description = "A library that makes it very easy for your application to keep data inbetween executions"
 homepage = "https://grantshandy.github.io/"
 repository = "https://github.com/grantshandy/disk-persist/"
 documentation = "https://docs.rs/disk-persist/"
